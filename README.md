@@ -1,5 +1,6 @@
 # August-5-Client-Scripts-Data-Policies
 
+## Client Script: Asset Recovery Request Submission Control
 ### **Activity**<br>
 You've been working at DXC Technology on the ITSM team for a few months. One of your responsibilities is reviewing incoming Asset Recovery Requests. Your manager, recently noticed that some unauthorized users have been trying to submit these requests without proper approval. <br>
 
@@ -107,6 +108,9 @@ We are using this default ACL role for testing instead of creating a new one, wh
 - So, if Beth’s user record is missing the dxc_employee role, the Client Script will prevent her from submitting—even though she technically has access to the table.
 
 ---
+---
+---
+## Create Data Policy
 
 
 
