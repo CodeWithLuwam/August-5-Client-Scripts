@@ -107,8 +107,6 @@ We are using this default ACL role for testing instead of creating a new one, wh
 - Even if Beth has the table access role, the Client Script blocks form submission if the user does not have the dxc_employee role.
 - So, if Beth’s user record is missing the dxc_employee role, the Client Script will prevent her from submitting—even though she technically has access to the table.
 
----
----
----
+
 
 
